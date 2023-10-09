@@ -1,0 +1,167 @@
+h1, h2, h3, #intro, #intro2, #content, .text1{
+    color:black;
+    font-size:40px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    margin:0px 10px 0px 10px;
+}
+
+#intro, #intro2{
+    color:black;
+    font-size:33px;
+    text-align: center;
+    border-style: solid;
+    border-radius: 6px;
+    border-color: rgb(115, 241, 178);
+    border-width: 10px;
+    background-color:bisque;
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/779/627/desktop-wallpaper-1980x1080-anime-girl-school-maiden-anime-girl-1980x1080.jpg");
+    background-repeat: no-repeat;
+    background-position:center center;
+    background-attachment: fixed;
+    background-size: 2000px;
+}
+
+h2,h3{
+    text-align: center;
+    color:black;
+    font-size:30px;
+}
+
+#content{
+    color:black; 
+    text-align:center;
+    font-size: 19px;
+}
+p{
+    color:rgb(0, 0, 0);
+    font-size:25px;
+    text-align: center;
+}
+
+.center, .flag-icon flag-icon-us, .flag-icon flag-icon-jp, .flag-icon flag-icon-kr{
+    margin-left: auto;
+    margin-right: auto;
+    border-color: rgb(136, 78, 78);
+    border-style: solid;
+    background-color:bisque;
+}
+
+.text1{
+    font-size: 30px;
+}
+
+button{
+    margin-left:860px;
+    font-size:25px;
+}
+.list1, .list2, .list3, #last{
+    font-size:28px;
+    border-style: solid;
+    border-radius: 6px;
+    border-color: rgb(115, 241, 178);
+    border-width: 10px;
+    background-color:bisque;
+    color:brown;
+    background-image: url("https://a-static.besthdwallpaper.com/all-white-wallpaper-3440x1440-30678_15.jpg");
+    background-repeat: no-repeat;
+    background-position:center center;
+    background-attachment: fixed;
+    background-size: 2400px;
+}
+.list1{
+    background-image:url(https://w0.peakpx.com/wallpaper/935/908/HD-wallpaper-mobile-and-%E7%BE%8E%E7%9A%84%E3%82%A2%E3%83%8B%E3%83%A1-%E3%82%A2%E3%83%8B%E3%83%A1%E3%81%AE%E5%A3%81%E7%B4%99-%E5%A3%81%E7%B4%99-%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84-kawaii-anime.jpg);
+    background-repeat: no-repeat;
+    background-position:center center;
+    background-attachment: fixed;
+    background-size: 2000px;
+}
+
+img{
+    height: 35px;
+    width:auto;
+}
+@keyframes image {
+    from{opacity:0;}
+    to{opacity:1}
+}
+#img2{
+    height:450px;
+    width:auto;
+    border-style: outset;
+    color:black;
+    border-width:7px;
+    animation: image 20s both;
+}
+#img3{
+    height:150px;
+    width:auto;
+    float:top right;
+    border-style:inset;
+    color:rgb(108, 116, 155);
+    border-width:8px;
+    margin: 20px 15px px 15px;
+}
+#img4{
+    float:top right;
+    height:300px;
+    width:auto;
+}
+#website{
+    border:solid;
+    border-width:12px;
+    border-radius: 8px;
+    border-color:rgb(139, 235, 168);
+    background-image: url("https://hitasurakabegami.com/wp-content/uploads/2023/01/%E3%80%904K%E3%80%9109-010%E3%81%9D%E3%81%97%E3%81%A6%E7%9F%A5%E3%82%8B%E3%80%8E%E4%BC%9D%E8%AA%AC%E3%80%8F-%E5%B0%8F%E8%B1%86%E6%B2%A2-%E3%81%93%E3%81%AF%E3%81%AD%EF%BC%8B.jpg");
+    background-repeat: no-repeat;
+    background-position:center center;
+    background-attachment: fixed;
+    background-size: 2000px;
+}
+#kohane{
+    height:132px;
+    width:auto;
+    float:left;
+    margin: 50px 10px 0px 100px;
+}
+#kohane2{
+    height:120px;
+    width:auto;
+    float:right;
+    margin: 50px 100px 0px 10px;
+}
+#kohane3{
+    height:115px;
+    width:auto;
+    text-align: justify;
+}
+#name{
+    border-style: outset;
+    border-color:brown;
+    
+    border-width:5.5px
+}
+
+#button{
+    background-color:lightblue; 
+    font-size:20px; 
+    float:center;
+    margin:10px 0px 10px 30px;
+}
+
+#app{
+    border-style:outset;
+    border-color:rgb(138, 125, 125);
+    border-width:6.5px;
+}
+
+iframe{
+    border-color: rgb(85, 84, 105);
+    border-style:solid;
+    border-radius:5.5px;
+    float:right;
+    margin:100px 50px 0px 0px; 
+}
+#osubutton{
+    margin:20px 0px 20px 830px;
+}
